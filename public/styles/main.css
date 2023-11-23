@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 10vh;
+    margin: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 3vh;
+    margin: 30px;
+}
+
+.btn {
+    background-image: linear-gradient(to right, purple, red);
+    color: white;
+}
+
+#wizPic {
+    display: block;
+    width: 50vh;
+}
+
+.card {
+    display: block;
+    height: 100px;
+    width: 200px;
+    border-color: red;
+    border-radius: 20px;
+    border-width: 5px;
+}
+
+.card-header {
+    background-color: white;
+}
+
+.card-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
